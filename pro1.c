@@ -9,7 +9,7 @@
 
 
 
-solution:
+// solution:
 #include <stdio.h>
 #include <limits.h>
 
